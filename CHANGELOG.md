@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- Add python 3.13 to classifiers
+- Drop support for Django < 4.2
+- Drop support for Wagtail < 5.2
+- Update classname for icon
+
 ## 0.4.0
 
 ### Changed
