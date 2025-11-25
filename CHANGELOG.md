@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- Support for Wagtail 6.3 and above
+- Support for Django 4.2 and above
+- Support for Python 3.10 and above
+
 ## 0.4.0
 
 ### Changed
